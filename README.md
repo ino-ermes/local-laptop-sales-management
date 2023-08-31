@@ -19,7 +19,7 @@
 - Discount for each item and for the order.
 - etc.
 # Main classes relational
-![Classes relational](https://i.imgur.com/undefined.png)
+![Classes relational](https://i.imgur.com/nz52M9a.png)
 # Main GUI
 ![GUI](https://i.imgur.com/PBRnlJA.png)
 ![GUI](https://i.imgur.com/1Ru4XUB.png)
